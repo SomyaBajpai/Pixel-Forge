@@ -33,7 +33,7 @@ Pixel Forge AI is an innovative image generation and manipulation platform power
 
 1. Clone the repository:
    ```
-   git clone https://github.com/dhhairya5/Pixel-Forge.git
+   git clone https://github.com/SomyaBajpai/Pixel-Forge.git
    ```
 
 2. Navigate to project directory:
@@ -136,8 +136,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For queries or suggestions, please reach out to:
-- [Dhhairya](https://github.com/dhhairya5)
-- Email: dhhairyawork@gmail.com
+- [SomyaBajpai](https://github.com/SomyaBajpai)
+- Email: somyabajpai2318@gmail.com
 
 ---
 
